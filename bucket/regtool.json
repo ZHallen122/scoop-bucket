@@ -1,19 +1,19 @@
 {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ZHallen122/RegTool/releases/download/v1.1.0/regtool_1.1.0_windows_amd64.zip",
+            "url": "https://github.com/ZHallen122/RegTool/releases/download/v1.2.0/regtool_1.2.0_windows_amd64.zip",
             "bin": [
                 "regtool.exe"
             ],
-            "hash": "a55bf86371a3c20dcb5b82f657e7d0c2b9f73a7752fd17644119349de536d9e9"
+            "hash": "b91343fa5e4614cda3fc9112065a040ca0881d894706cd0adecadf66fdd4051a"
         },
         "arm64": {
-            "url": "https://github.com/ZHallen122/RegTool/releases/download/v1.1.0/regtool_1.1.0_windows_arm64.zip",
+            "url": "https://github.com/ZHallen122/RegTool/releases/download/v1.2.0/regtool_1.2.0_windows_arm64.zip",
             "bin": [
                 "regtool.exe"
             ],
-            "hash": "f8af0d283a8d4445143d303c79113397b41bc5bce5daa9e0655118a13fcee8ad"
+            "hash": "72e19e2cdc99a91ae222d766c18b23cbea68b45e6e4f8fe1d05caf82a62ddf48"
         }
     },
     "homepage": "https://github.com/ZHallen122/RegTool",
