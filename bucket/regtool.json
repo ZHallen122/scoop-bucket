@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ZHallen122/RegTool/releases/download/v1.0.0/regtool_1.0.0_windows_amd64.zip",
+            "bin": [
+                "regtool.exe"
+            ],
+            "hash": "6237982c579d6ec416f9ec4b870d156a191fa2a9a9a4d9cf66f7edaec05b12e3"
+        },
+        "arm64": {
+            "url": "https://github.com/ZHallen122/RegTool/releases/download/v1.0.0/regtool_1.0.0_windows_arm64.zip",
+            "bin": [
+                "regtool.exe"
+            ],
+            "hash": "5cc569d99bd8500710fb3e00b6b80f9e795dd4282dc4198cb70d6989793d0c55"
+        }
+    },
+    "homepage": "https://github.com/ZHallen122/RegTool",
+    "license": "MIT",
+    "description": "Switch package manager registries between regional mirrors"
+}
